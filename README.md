@@ -1,4 +1,4 @@
-# ClearPass-api-list-endpoins
+# ClearPass-api-list-endpoints
 Get a CSV with whole list of endpoints including all attributes of them (including custom attributes).
 Script to get a CSV file with the list of Endpoints in ClearPass. You have to configure the followings parameters before run the script:
 * Create a Bearer Token in ClearPass
