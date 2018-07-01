@@ -6,3 +6,8 @@ Script to get a CSV file with the list of Endpoints in ClearPass. You have to co
 * Configure IP Address of ClearPass
 
 ClearPass has a limit of 1000 endpoint returned in each query. The script will try to get more data with several queries. In the case you want to reducice each iteration, you can change it from 1000 to the limit wanted.
+
+How to run this script:
+```
+python3 get_endpoints.py 
+```
