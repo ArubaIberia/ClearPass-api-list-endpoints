@@ -13,7 +13,7 @@ limite=1000
 # IP del ClearPass
 ip="10.150.0.44"
 # Token para consultar ClearPass
-token="Bearer e53abb98abf834c5f5ca8c7ba547ba7e8aa5b5eb"
+token="Bearer aaaabbbbccccddddeeeeffffgggghhhhiiiijjjjjkkkk"
 # Nombre del fichero para CSV
 nombre_fichero="resultado"
 # ---------------------------------------------
